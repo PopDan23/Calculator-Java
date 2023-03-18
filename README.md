@@ -14,6 +14,9 @@ Version 1.2 of Java Calculator:
 
 Version 1.3 pf Java Calculator ( in progress): 
  - the option to repeat the calculus without re-run the test;
- - a more welcome interface;
- - more clean code after the stuff;
- - 
+ - a more welcome interface; // GUI library: JavaFX and Swing 
+ - more clean code after the stuff + comms for what do they do;
+ - improve imput( more or less numbers to define);
+ 
+ Version 1.4 - THC
+ - use calculator online or on a site.
