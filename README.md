@@ -24,6 +24,7 @@ Version 1.3 pf Java Calculator ( in progress): <!--GUI library: JavaFX and Swing
  - improve imput( more or less numbers to define);
  
  Version 1.4 - THC
- -(possible) solve simple math calculus;
+ 
+ - (possible) solve simple math calculus;
  - use calculator online or on my site;
- -portofolio of apps.
+ - portofolio of apps.
